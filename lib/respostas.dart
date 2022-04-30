@@ -9,7 +9,7 @@ class Respostas extends StatelessWidget {
   Widget build(BuildContext context) {
     return RaisedButton(
       child: Text(
-        'azul',
+        'botão',
         style: TextStyle(
           fontSize: 18,
           color: Color.fromARGB(255, 196, 207, 200),
